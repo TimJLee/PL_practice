@@ -21,3 +21,4 @@ public class Ex46_StaticMethodDemo {
 		System.out.println("다음 박스의 번호는 " + Box1.boxID + "번 입니다.");
 	}
 }
+//44번과 비슷한 예제
