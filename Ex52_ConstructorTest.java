@@ -33,3 +33,5 @@ public class Ex52_ConstructorTest {
 	}
 }
 
+// 이문제 중요. 오버라이딩 시험 나올 수 있음. 객체에 관한 것 숙지.
+
